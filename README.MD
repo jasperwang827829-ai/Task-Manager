@@ -27,6 +27,7 @@ A full-stack task management web application built with React, FastAPI, and SQLi
 ## Project Structure
 
 
+```
 task-manager/
 ├── backend/
 │   ├── app/
@@ -43,6 +44,8 @@ task-manager/
 │   │   ├── main.jsx
 │   │   └── index.css
 └── README.md
+```
+
 
 
 
